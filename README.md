@@ -1,6 +1,8 @@
 # Network-Analysis-of-Game-of-Thrones
 
-<p><img src="got_network.jpeg" style="width: 550px"></p>
+<p align="center">
+  <img src="got_network.jpeg" style="width: 550px" >
+</p>
 
 Context
 ----
